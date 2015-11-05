@@ -36,6 +36,7 @@ MealPoint allows Berkeley students to buy and sell their meal points with ease.
  - DiningFacility.swift
  - Buyer.swift
  - Seller.swift
+
 <h3> View </h3>
 
  - DiningLocationTableView
@@ -44,6 +45,7 @@ MealPoint allows Berkeley students to buy and sell their meal points with ease.
  - LoginView
  - DiningLocationView
  - DashboardView
+
 <h3> View Controller </h3>
 
  - DashboardViewController
